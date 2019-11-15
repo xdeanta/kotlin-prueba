@@ -2,7 +2,7 @@ fun main(){
     println("Hello World!")
     otrafuncion()
     println(sum(5,8))
-    printSum(4,4)
+    printSum(4,3)
 }
 
 fun otrafuncion(){
